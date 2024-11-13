@@ -1,0 +1,13 @@
+{
+  "name": "github-osint",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^21.0.2",
+    "node-fetch": "^3.3.2"
+  }
+}
